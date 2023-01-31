@@ -1,0 +1,25 @@
+main {
+    text-align: center;
+}
+
+#boxImg {
+    text-align: center;
+}
+
+#imgThanks {
+    width: 150px;
+}
+
+#rate {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#rate p {
+    background-color: #262f38;
+    width: 230px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #d18042;
+}
