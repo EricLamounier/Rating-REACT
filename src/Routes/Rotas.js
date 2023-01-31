@@ -1,4 +1,4 @@
-import { Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import RatePage from '../Components/Pages/RatePage/RatePage';
 import ThanksPage from '../Components/Pages/ThanksPage/ThanksPage';
 
